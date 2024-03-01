@@ -1,0 +1,15 @@
+{
+  "name": "postcode-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-rate-limit": "^7.1.5",
+    "http-errors": "~1.6.3"
+  }
+}
